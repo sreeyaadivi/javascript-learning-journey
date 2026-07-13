@@ -13,7 +13,7 @@ This repository contains my daily JavaScript practice, assignments, and mini pro
 - ✅ Day 3 – Data Types
 - ✅ Day 4 – Operators
 - ✅ Day 5 – Type Conversion
-- ⏳ Day 6 – Template Literals
+- ✅Day 6 – Template Literals
 - ⏳ Day 7 – User Input
 - ⏳ Day 8 – Mini Project
 - ⏳ Module 1 Test
@@ -27,6 +27,7 @@ This repository contains my daily JavaScript practice, assignments, and mini pro
 ├── day3.js
 ├── day4.js
 └── day5.js
+└── day6.js
 ```
 
 ## 🎯 Goal
