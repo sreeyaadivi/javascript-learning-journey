@@ -1,5 +1,10 @@
-// OPERATORS
-
+/*
+-----------------------------------------
+JavaScript Bootcamp
+Module 1: JavaScript Fundamentals
+Day 4: Operators
+-----------------------------------------
+*/
 // PRACTICE
 
 let a = 20

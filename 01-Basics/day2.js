@@ -1,3 +1,11 @@
+
+/*
+-----------------------------------------
+JavaScript Bootcamp
+Module 1: JavaScript Fundamentals
+Day 2: Variables
+-----------------------------------------
+*/
 //MINI CHALLENGE 1
 // Create a Student Profile.
 

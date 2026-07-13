@@ -1,4 +1,10 @@
-// data types
+/*
+-----------------------------------------
+JavaScript Bootcamp
+Module 1: JavaScript Fundamentals
+Day 3: Data Types
+-----------------------------------------
+*/
 // STUDENT INFORMATION CARD
 let name = "John"; 
 let age = 21;

@@ -1,4 +1,10 @@
-// // TYPE CONVERSIONS
+/*
+-----------------------------------------
+JavaScript Bootcamp
+Module 1: JavaScript Fundamentals
+Day 5: Type Conversion
+-----------------------------------------
+*/
 
 // console.log("10"+ 5);
 // console.log("10"- 5);
