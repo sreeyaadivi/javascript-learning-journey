@@ -17,6 +17,8 @@ This repository contains my daily JavaScript practice, assignments, and mini pro
 - ✅ Day 7 – User Input
 - ✅ Day 8 – Mini Project
 - ✅ Module 1 Test
+- ✅ Day 9 – if Statement
+- ⏳ Day 10 – else Statement
 
 
 ## 📂 Folder Structure
@@ -37,6 +39,8 @@ This repository contains my daily JavaScript practice, assignments, and mini pro
     └── question3.js
     └── question4.js
     └── question5.js
+02-Control-Flow/
+├── day9.js
 
 
 ```
