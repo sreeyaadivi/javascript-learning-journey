@@ -46,7 +46,6 @@ This repository contains my daily JavaScript practice, assignments, and mini pro
 ```
 
 
-
 ## 🎯 Goal
 
 To master JavaScript from scratch through daily coding practice and build real-world projects.
