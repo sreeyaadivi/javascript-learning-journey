@@ -1,12 +1,26 @@
-# 🚀 JavaScript Bootcamp
+# 🚀 JavaScript Learning Journey
 
-Welcome to my JavaScript learning journey!
+Welcome to my JavaScript learning journey! 👋
 
-This repository contains my daily JavaScript practice, assignments, and mini projects as I learn JavaScript from beginner to advanced.
+This repository documents my daily progress as I learn **JavaScript from Beginner to Advanced** through coding practice, assignments, mini projects, and assessments.
+---
 
-## 📚 Progress
+# 📊 Current Progress
 
-### Module 1: JavaScript Fundamentals
+| Module | Status |
+|---------|--------|
+| ✅ Module 1 – JavaScript Fundamentals | Completed |
+| 🚀 Module 2 – Control Flow | In Progress |
+
+**📅 Current Day:** 9
+
+**📚 Lessons Completed:** 9
+
+---
+
+# 🗺️ Learning Roadmap
+
+## ✅ Module 1 – JavaScript Fundamentals
 
 - ✅ Day 1 – Introduction to JavaScript
 - ✅ Day 2 – Variables
@@ -15,45 +29,78 @@ This repository contains my daily JavaScript practice, assignments, and mini pro
 - ✅ Day 5 – Type Conversion
 - ✅ Day 6 – Template Literals
 - ✅ Day 7 – User Input
-- ✅ Day 8 – Mini Project
-- ✅ Module 1 Test
+- ✅ Day 8 – Student Report Card Project
+- ✅ Module 1 Assessment (Score: **100/100**)
+
+---
+
+## 🚀 Module 2 – Control Flow
+
 - ✅ Day 9 – if Statement
 - ⏳ Day 10 – else Statement
+- ⬜ Day 11 – else if + Nested if
+- ⬜ Day 12 – switch + Ternary Operator
+- ⬜ Module 2 Assessment
 
-
-## 📂 Folder Structure
-
-```
-01-Basics/
-├── day1.js
-├── day2.js
-├── day3.js
-├── day4.js
-└── day5.js
-└── day6.js
-└── day7.js
-└── day8.js
-└── Module1-Assessment/
-    └── question1.js
-    └── question2.js
-    └── question3.js
-    └── question4.js
-    └── question5.js
-02-Control-Flow/
-├── day9.js
-
-
-```
-
-
-## 🎯 Goal
-
-To master JavaScript from scratch through daily coding practice and build real-world projects.
-
-## 🎉 Milestone Achieved
-
-- ✅ Module 1 Completed(Day-8)
-- 🏆 Built my first JavaScript console application
-- Completed Module 1 Assessment 
 ---
-⭐ This repository is updated regularly as I continue my JavaScript learning journey.
+
+# 📁 Repository Structure
+
+```text
+javascript-learning-journey/
+│
+├── 📂 01-Basics
+├── 📂 02-Control-Flow
+│
+├── 📄 README.md
+└── 📄 .gitignore
+```
+---
+
+# 🛠️ Technologies Used
+
+- JavaScript (Node.js)
+- Git
+- GitHub
+- Visual Studio Code
+
+---
+
+# 🎯 Learning Goals
+
+- ✅ Master JavaScript Fundamentals
+- 🚀 Learn Control Flow
+- ⬜ Learn Loops
+- ⬜ Learn Functions
+- ⬜ Learn Arrays
+- ⬜ Learn Objects
+- ⬜ Learn ES6+
+- ⬜ Learn DOM Manipulation
+- ⬜ Learn React.js
+- ⬜ Build Real-World Projects
+
+---
+
+# 🏆 Achievements
+
+- 🎉 Completed Module 1
+- 🥇 Scored **100/100** in Module 1 Assessment
+- 💻 Built my first JavaScript Console Application
+- 📈 Maintaining a daily JavaScript learning repository on GitHub
+
+---
+
+## ⭐ Daily Workflow
+
+For every lesson, I complete:
+
+- 📖 Theory
+- 💻 Coding Practice
+- 📝 Assignment
+- 🎤 Interview Questions
+- 🚀 Mini Challenge / Project
+- ☁️ Git Commit & Push
+
+---
+
+⭐ **This repository is updated regularly as I continue my JavaScript learning journey.**
