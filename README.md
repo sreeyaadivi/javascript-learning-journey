@@ -40,7 +40,16 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 - ✅ Day 10 – else Statement + else if 
 - ✅ Day 11 – Nested if + switch
 - ✅ Day 12 – Ternary Operator + Mini Project
-- ⏳ Module 2 Assessment 
+- ✅ Module 2 Assessment (Score: **91/100**)
+
+---
+
+## ⏳ Module 3 – Loops
+
+- ⬜ Day 13 – for Loop + while Loop
+- ⬜ Day 14 – do...while + Nested Loops
+- ⬜ Day 15 – Pattern Printing + Mini Project
+- ⬜ Module 3 Assessment
 ---
 
 # 📁 Repository Structure
@@ -50,7 +59,7 @@ javascript-learning-journey/
 │
 ├── 📂 01-Basics
 ├── 📂 02-Control-Flow
-│
+├── 📂 03-Loops
 ├── 📄 README.md
 └── 📄 .gitignore
 ```
@@ -69,7 +78,7 @@ javascript-learning-journey/
 
 - ✅ Master JavaScript Fundamentals
 - ✅ Learn Control Flow
-- ⬜ Learn Loops
+- 🚀 Learn Loops (In Progress)
 - ⬜ Learn Functions
 - ⬜ Learn Arrays
 - ⬜ Learn Objects
@@ -84,6 +93,8 @@ javascript-learning-journey/
 
 - 🎉 Completed Module 1
 - 🥇 Scored **100/100** in Module 1 Assessment
+- 🎉 Completed Module 2
+- 🥇 Scored **91/100** in Module 2 Assessment
 - 💻 Built my first JavaScript Console Application
 - 📈 Maintaining a daily JavaScript learning repository on GitHub
 

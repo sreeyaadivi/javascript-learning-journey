@@ -8,7 +8,7 @@ Day 12: Conditional Statements (Ternary Operator, )
 
 //Assignment
 //Voting Eligibility Checker
-/*
+
 const readline = require("readline-sync")
 
 let name = readline.question("Enter your name: ");
@@ -17,7 +17,7 @@ let age = Number(readline.question("Enter your age: "));
 let result = age >=18 ? `Congratulations ${name}! You are eligible to vote ` : `Sorry ${name}. You are not eligible to vote.`;
 
 console.log(result)
-*/
+
 
 /* Mini Project
 🎓 Student Result Management System
