@@ -37,9 +37,9 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 ## 🚀 Module 2 – Control Flow
 
 - ✅ Day 9 – if Statement
-- ⏳ Day 10 – else Statement
-- ⬜ Day 11 – else if + Nested if
-- ⬜ Day 12 – switch + Ternary Operator
+- ✅ Day 10 – else Statement + else if 
+- ⏳ Day 11 – Nested if + switch
+- ⬜ Day 12 – Ternary Operator
 - ⬜ Module 2 Assessment
 
 ---

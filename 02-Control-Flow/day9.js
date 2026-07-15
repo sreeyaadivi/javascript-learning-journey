@@ -5,7 +5,7 @@ Module 2: Control Flow
 Day 9: Conditional Statements
 -----------------------------------------
 */
-/*
+
 // PRACTICE 
 let age = 25;
 if (age >= 18) {
@@ -31,10 +31,10 @@ let salary = 60000;
 if (salary >= 50000) {
     console.log("High Salary");
 }
-*/
+
 // Assignment
 // DRIVER LICENSE ELIGIBILITY CHECKER
-/*
+
 const readline = require('readline-sync');
 let name = readline.question("Enter your name: ");
 const ageInput = Number(readline.question("Enter your age: "));
@@ -43,7 +43,6 @@ if (ageInput >= 18) {
         Congratulations ${name}!
         you are eligible for a driver's license!`);
     }
-*/
 
 // Mini Challenge
 // Scholorship Checker
