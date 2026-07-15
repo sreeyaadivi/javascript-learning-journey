@@ -8,7 +8,7 @@ Day 11: Conditional Statements (Nested If, Switch)
 
 //Assignment
 // ATM Login system
-/*
+
 const readline = require("readline-sync")
 
 const username = readline.question("Enter the Username: ");
@@ -23,7 +23,7 @@ if (username == "admin"){
     }
 
 }
-*/
+
 
 // Minichallenge
 // Day Finder

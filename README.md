@@ -10,11 +10,11 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 | Module | Status |
 |---------|--------|
 | ✅ Module 1 – JavaScript Fundamentals | Completed |
-| 🚀 Module 2 – Control Flow | In Progress |
+| ✅ Module 2 – Control Flow | Completed |
 
-**📅 Current Day:** 9
+**📅 Current Day:** 13
 
-**📚 Lessons Completed:** 9
+**📚 Lessons Completed:** 13
 
 ---
 
@@ -39,7 +39,8 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 - ✅ Day 9 – if Statement
 - ✅ Day 10 – else Statement + else if 
 - ✅ Day 11 – Nested if + switch
-- ⏳ Day 12 – Ternary Operator + Module 2 Assessment
+- ✅ Day 12 – Ternary Operator + Mini Project
+- ⏳ Module 2 Assessment 
 ---
 
 # 📁 Repository Structure
@@ -67,7 +68,7 @@ javascript-learning-journey/
 # 🎯 Learning Goals
 
 - ✅ Master JavaScript Fundamentals
-- 🚀 Learn Control Flow
+- ✅ Learn Control Flow
 - ⬜ Learn Loops
 - ⬜ Learn Functions
 - ⬜ Learn Arrays
