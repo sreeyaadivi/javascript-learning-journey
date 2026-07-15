@@ -38,10 +38,8 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 
 - ✅ Day 9 – if Statement
 - ✅ Day 10 – else Statement + else if 
-- ⏳ Day 11 – Nested if + switch
-- ⬜ Day 12 – Ternary Operator
-- ⬜ Module 2 Assessment
-
+- ✅ Day 11 – Nested if + switch
+- ⏳ Day 12 – Ternary Operator + Module 2 Assessment
 ---
 
 # 📁 Repository Structure
