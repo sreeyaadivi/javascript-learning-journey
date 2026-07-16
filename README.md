@@ -12,9 +12,9 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 | ✅ Module 1 – JavaScript Fundamentals | Completed |
 | ✅ Module 2 – Control Flow | Completed |
 
-**📅 Current Day:** 14
+**📅 Current Day:** 15
 
-**📚 Lessons Completed:** 14
+**📚 Lessons Completed:** 15
 
 ---
 
@@ -48,8 +48,8 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 
 - ✅ Day 13 – for Loop + while Loop
 - ✅ Day 14 – do...while + Nested Loops
-- ⬜ Day 15 – Pattern Printing + Mini Project
-- ⬜ Module 3 Assessment
+- ✅ Day 15 – Pattern Printing + Mini Project
+- ✅ Module 3 Assessment (Score **95/100**)
 ---
 
 # 📁 Repository Structure
@@ -78,7 +78,7 @@ javascript-learning-journey/
 
 - ✅ Master JavaScript Fundamentals
 - ✅ Learn Control Flow
-- 🚀 Learn Loops (In Progress)
+- ✅ Learn Loops (In Progress)
 - ⬜ Learn Functions
 - ⬜ Learn Arrays
 - ⬜ Learn Objects
@@ -95,6 +95,8 @@ javascript-learning-journey/
 - 🥇 Scored **100/100** in Module 1 Assessment
 - 🎉 Completed Module 2
 - 🥇 Scored **91/100** in Module 2 Assessment
+- 🎉 Completed Module 3
+- 🥇 Scored **95/100** in Module 3 Assessment
 - 💻 Built my first JavaScript Console Application
 - 📈 Maintaining a daily JavaScript learning repository on GitHub
 
