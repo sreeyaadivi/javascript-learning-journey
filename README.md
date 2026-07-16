@@ -46,7 +46,7 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 
 ## ⏳ Module 3 – Loops
 
-- ⬜ Day 13 – for Loop + while Loop
+- ✅ Day 13 – for Loop + while Loop
 - ⬜ Day 14 – do...while + Nested Loops
 - ⬜ Day 15 – Pattern Printing + Mini Project
 - ⬜ Module 3 Assessment
