@@ -12,9 +12,9 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 | ✅ Module 1 – JavaScript Fundamentals | Completed |
 | ✅ Module 2 – Control Flow | Completed |
 
-**📅 Current Day:** 13
+**📅 Current Day:** 14
 
-**📚 Lessons Completed:** 13
+**📚 Lessons Completed:** 14
 
 ---
 
@@ -47,7 +47,7 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 ## ⏳ Module 3 – Loops
 
 - ✅ Day 13 – for Loop + while Loop
-- ⬜ Day 14 – do...while + Nested Loops
+- ✅ Day 14 – do...while + Nested Loops
 - ⬜ Day 15 – Pattern Printing + Mini Project
 - ⬜ Module 3 Assessment
 ---

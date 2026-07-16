@@ -18,7 +18,7 @@ Output:
 ...
 5 × 10 = 50
 */
-/*
+
 const readline = require("readline-sync");
 let number = Number(readline.question("Enter a Number: "));
 let i = 1;
@@ -26,7 +26,7 @@ for (i =1; i <= 10; i++){
     result = number * i;
     console.log(`${number} x ${i} = ${result}`);
 }
-*/
+
 
 //Mini challenge
 
