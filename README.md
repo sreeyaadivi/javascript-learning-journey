@@ -49,6 +49,7 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 - ✅ Day 13 – for Loop + while Loop
 - ✅ Day 14 – do...while + Nested Loops
 - ✅ Day 15 – Pattern Printing + Mini Project
+- ✅ Day 16 – Pattern Printing(Advanced)
 - ✅ Module 3 Assessment (Score **95/100**)
 ---
 
