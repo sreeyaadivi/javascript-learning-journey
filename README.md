@@ -11,10 +11,12 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 |---------|--------|
 | ✅ Module 1 – JavaScript Fundamentals | Completed |
 | ✅ Module 2 – Control Flow | Completed |
+| ✅ Module 3 – Loops & Pattern Printing | Completed |
+| ✅ Module 4 – Functions | Completed |
 
-**📅 Current Day:** 15
+**📅 Current Day:** 17
 
-**📚 Lessons Completed:** 15
+**📚 Lessons Completed:** 17
 
 ---
 
@@ -44,13 +46,28 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 
 ---
 
-## ⏳ Module 3 – Loops
-
+## ✅ Module 3 – Loops & Pattern Printing
 - ✅ Day 13 – for Loop + while Loop
 - ✅ Day 14 – do...while + Nested Loops
-- ✅ Day 15 – Pattern Printing + Mini Project
-- ✅ Day 16 – Pattern Printing(Advanced)
-- ✅ Module 3 Assessment (Score **95/100**)
+- ✅ Day 15 – Basic Pattern Printing
+- ✅ Day 16 – Advanced Pattern Printing
+- ✅ Module 3 Assessment (Score: **95/100**)
+---
+
+---
+
+## ✅ Module 4 – Functions
+
+- ✅ Day 17 – JavaScript Functions
+  - Function Declaration
+  - Function Calling
+  - Parameters & Arguments
+  - Return Values
+  - Default Parameters
+  - Arrow Functions
+
+- ✅ Module 4 Assessment (Score: **150/150**)
+
 ---
 
 # 📁 Repository Structure
@@ -79,17 +96,19 @@ javascript-learning-journey/
 
 - ✅ Master JavaScript Fundamentals
 - ✅ Learn Control Flow
-- ✅ Learn Loops (In Progress)
-- ⬜ Learn Functions
+- ✅ Master JavaScript Fundamentals
+- ✅ Learn Control Flow
+- ✅ Learn Loops & Pattern Printing
+- ✅ Learn Functions
 - ⬜ Learn Arrays
 - ⬜ Learn Objects
 - ⬜ Learn ES6+
 - ⬜ Learn DOM Manipulation
 - ⬜ Learn React.js
 - ⬜ Build Real-World Projects
-
 ---
 
+# 🏆 Achievements
 # 🏆 Achievements
 
 - 🎉 Completed Module 1
@@ -98,9 +117,10 @@ javascript-learning-journey/
 - 🥇 Scored **91/100** in Module 2 Assessment
 - 🎉 Completed Module 3
 - 🥇 Scored **95/100** in Module 3 Assessment
+- 🎉 Completed Module 4
+- 🥇 Scored **150/150** in Module 4 Assessment
 - 💻 Built my first JavaScript Console Application
 - 📈 Maintaining a daily JavaScript learning repository on GitHub
-
 ---
 
 ## ⭐ Daily Workflow
