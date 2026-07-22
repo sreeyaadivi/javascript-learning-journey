@@ -7,7 +7,7 @@ Day 15: Pattern Printing
 */
 
 // Assignment
-/*
+
 const number = 4;
 for (let i = 1; i <= number; i++){
     let line = " "
@@ -36,10 +36,10 @@ for (let i = 1;i <=number+1; i++){
     }
     console.log(line)
 }
-*/
+
 
 // Hollow square
-/*
+
 let n = 3;
 for (let i = 1; i <= n; i++){
     let line = " "
@@ -69,9 +69,9 @@ for ( let i = 1; i <= rows;i++){
     }
     console.log(line)
 }
-*/
+
 // Hollow Pyramid
-/*
+
 let n = 5;
 for (let i = 1; i <=n; i++){
     let line = "";
@@ -88,9 +88,9 @@ for (let i = 1; i <=n; i++){
     }
     console.log(line)
 }
-*/
+
 //Butterfly pattern
-/*
+
 let n = 5;
 for( let i = 1;i <=n;i++){
     let line = "";
@@ -119,9 +119,9 @@ for (let i =n-1;i >=1;i--){
     console.log(line)
 
 }
-*/
+
 //Half diamond
-/*
+
 let n = 5;
 for(let  i = 1; i <= n; i++){
     let line = " ";
@@ -137,9 +137,8 @@ for(let i = n-1;i>=1;i--){
     }
     console.log(line)
 }
-*/
+
 //Full diamond
- /*
 let n = 5;
 for(let i = 1; i<=n; i++){
     let line = "";
@@ -161,10 +160,9 @@ for(let i = n-1;i>=1;i--){
     }
     console.log(line)
 }
-    */
 
 //Pascals Triangle
-/*
+
 let n = 5;
 for(let i = 0;i<n;i++){
     let line = "";
@@ -178,10 +176,10 @@ for(let i = 0;i<n;i++){
     }
     console.log(line)
 }
-    */
+   
 
 // Floyd's triangle
-/*
+
 let n = 5;
 let num =1;
 for(let i = 1;i<=n;i++){
@@ -192,8 +190,7 @@ for(let i = 1;i<=n;i++){
     }
     console.log(line)
 }
-*/
-/*
+// Assignment
 let n = 5;
 for(let i = 1;i<=n;i++){
     let line = "";
@@ -231,7 +228,7 @@ for(let i = 1;i<=n;i++){
     }
     console.log(line)
 }
-*/
+
 
 let n = 5;
 for(let i = 1;i<=n;i++){
