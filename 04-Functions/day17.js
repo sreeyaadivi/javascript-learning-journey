@@ -5,7 +5,7 @@ Module 4: Functions
 Day 17: Functions basics
 -----------------------------------------
 */
-/*
+
 function introduction(){
     console.log("Hello! My name is Sreeya");
     console.log("I am learning Javascript");
@@ -13,10 +13,9 @@ function introduction(){
 } 
 introduction();
 introduction();
-*/
 
 //Practice 
-/*
+
 function hello(){
     console.log("Hello World");
 }
@@ -35,10 +34,9 @@ function motivation(){
 motivation();
 motivation();
 
-*/
 
 // FUnction with Parameters and Arguments
-/*
+
 function city(cityName){
     console.log(`City : ${cityName}`);
 }
@@ -56,10 +54,10 @@ function employee(name,company){
     console.log(`Company : ${company}`);
 }
 employee("Sreeya","OpenAI");
-*/
+
 
 // functions with return values
-/*
+
 function square(num){
     return num * num;
 }
@@ -77,10 +75,9 @@ function fullName(firstName, lastName){
 }
 let name = fullName("Sreeya", "Adivi");
 console.log(name);
-*/
 
 // Function with default parameters
-/*
+
 function country(name = "India"){
     console.log(`Country : ${name}`);
 }
@@ -99,7 +96,7 @@ function introduce(name, role = "Student"){
 }
 introduce("Sreeya");
 introduce("Rahul", "Developer");
-*/
+
 
 // Arrow Functions
 
@@ -117,3 +114,5 @@ const motivation = () => {
     console.log("Keep Learning!");
 }
 motivation();
+
+

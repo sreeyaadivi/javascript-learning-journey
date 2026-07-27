@@ -14,9 +14,9 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 | ✅ Module 3 – Loops & Pattern Printing | Completed |
 | ✅ Module 4 – Functions | Completed |
 
-**📅 Current Day:** 17
+**📅 Current Day:** 18
 
-**📚 Lessons Completed:** 17
+**📚 Lessons Completed:** 18
 
 ---
 
@@ -59,15 +59,8 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 ## ✅ Module 4 – Functions
 
 - ✅ Day 17 – JavaScript Functions
-  - Function Declaration
-  - Function Calling
-  - Parameters & Arguments
-  - Return Values
-  - Default Parameters
-  - Arrow Functions
-
 - ✅ Module 4 Assessment (Score: **150/150**)
-
+- ✅ Day 18 – JavaScript Functions(Advanced)
 ---
 
 # 📁 Repository Structure
@@ -78,6 +71,7 @@ javascript-learning-journey/
 ├── 📂 01-Basics
 ├── 📂 02-Control-Flow
 ├── 📂 03-Loops
+├── 📂 04-Functions
 ├── 📄 README.md
 └── 📄 .gitignore
 ```
