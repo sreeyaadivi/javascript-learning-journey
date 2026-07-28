@@ -13,10 +13,11 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 | ✅ Module 2 – Control Flow | Completed |
 | ✅ Module 3 – Loops & Pattern Printing | Completed |
 | ✅ Module 4 – Functions | Completed |
+| ⬜ Module 5 – Arrays | In Progess |
 
-**📅 Current Day:** 18
+**📅 Current Day:** 19
 
-**📚 Lessons Completed:** 18
+**📚 Lessons Completed:** 19
 
 ---
 
@@ -61,6 +62,7 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 - ✅ Day 17 – JavaScript Functions
 - ✅ Module 4 Assessment (Score: **150/150**)
 - ✅ Day 18 – JavaScript Functions(Advanced)
+- ✅ Day 19 – Arrays
 ---
 
 # 📁 Repository Structure
@@ -72,6 +74,7 @@ javascript-learning-journey/
 ├── 📂 02-Control-Flow
 ├── 📂 03-Loops
 ├── 📂 04-Functions
+├── 📂 05-Arrays
 ├── 📄 README.md
 └── 📄 .gitignore
 ```
@@ -103,7 +106,6 @@ javascript-learning-journey/
 ---
 
 # 🏆 Achievements
-# 🏆 Achievements
 
 - 🎉 Completed Module 1
 - 🥇 Scored **100/100** in Module 1 Assessment
@@ -113,6 +115,7 @@ javascript-learning-journey/
 - 🥇 Scored **95/100** in Module 3 Assessment
 - 🎉 Completed Module 4
 - 🥇 Scored **150/150** in Module 4 Assessment
+- 🎉 Started Module 5
 - 💻 Built my first JavaScript Console Application
 - 📈 Maintaining a daily JavaScript learning repository on GitHub
 ---
