@@ -17,7 +17,7 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 
 **📅 Current Day:** 20
 
-**📚 Lessons Completed:** 20
+**📚 Modules Completed:** 5
 
 ---
 
@@ -53,7 +53,6 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 - ✅ Day 15 – Basic Pattern Printing
 - ✅ Day 16 – Advanced Pattern Printing
 - ✅ Module 3 Assessment (Score: **95/100**)
----
 
 ---
 
@@ -62,8 +61,15 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 - ✅ Day 17 – JavaScript Functions
 - ✅ Module 4 Assessment (Score: **150/150**)
 - ✅ Day 18 – JavaScript Functions(Advanced)
+
+---
+
+## ✅ Module 5 – Arrays
+
 - ✅ Day 19 – Arrays
 - ✅ Day 20 – Arrays(Advanced)
+- ✅ Module 5 Assessment (Score: **90/100**)
+
 ---
 
 # 📁 Repository Structure
@@ -119,7 +125,7 @@ javascript-learning-journey/
 - 🥇 Scored **150/150** in Module 4 Assessment
 - 🎉 Completed Module 5
 - 📚 Built **Personal Library Manager** using JavaScript Arrays.
-
+- 🥇 Scored **90/100** in Module 5 Assessment
 - 📈 Maintaining a daily JavaScript learning repository on GitHub
 ---
 
