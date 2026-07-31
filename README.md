@@ -15,7 +15,7 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 | ✅ Module 4 – Functions | Completed |
 | ✅ Module 5 – Arrays | Completed |
 
-**📅 Current Day:** 20
+**📅 Current Day:** 21
 
 **📚 Modules Completed:** 5
 
@@ -71,6 +71,11 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 - ✅ Module 5 Assessment (Score: **90/100**)
 
 ---
+
+## ✅ Module 5 – Objects
+
+- ✅ Day 21 – Objects
+
 
 # 📁 Repository Structure
 
@@ -136,7 +141,6 @@ For every lesson, I complete:
 - 📖 Theory
 - 💻 Coding Practice
 - 📝 Assignment
-- 🎤 Interview Questions
 - 🚀 Mini Challenge / Project
 - ☁️ Git Commit & Push
 
