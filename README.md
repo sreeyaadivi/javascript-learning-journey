@@ -16,7 +16,7 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 | ✅ Module 5 – Arrays | Completed |
 | ✅ Module 6 – Objects | In Progress |
 
-**📅 Current Day:** 22
+**📅 Current Day:** 23
 
 **📚 Modules Completed:** 5
 
@@ -77,6 +77,7 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 
 - ✅ Day 21 – Objects(Basics)
 - ✅ Day 22 – Objects(Nested Objects)
+- ✅ Day 23 – Object Methods
 
 
 # 📁 Repository Structure
