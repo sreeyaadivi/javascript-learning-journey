@@ -14,8 +14,9 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 | ✅ Module 3 – Loops & Pattern Printing | Completed |
 | ✅ Module 4 – Functions | Completed |
 | ✅ Module 5 – Arrays | Completed |
+| ✅ Module 6 – Objects | In Progress |
 
-**📅 Current Day:** 21
+**📅 Current Day:** 22
 
 **📚 Modules Completed:** 5
 
@@ -74,7 +75,8 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 
 ## ✅ Module 5 – Objects
 
-- ✅ Day 21 – Objects
+- ✅ Day 21 – Objects(Basics)
+- ✅ Day 22 – Objects(Nested Objects)
 
 
 # 📁 Repository Structure
@@ -87,6 +89,7 @@ javascript-learning-journey/
 ├── 📂 03-Loops
 ├── 📂 04-Functions
 ├── 📂 05-Arrays
+├── 📂 06-Objects
 ├── 📄 README.md
 └── 📄 .gitignore
 ```
