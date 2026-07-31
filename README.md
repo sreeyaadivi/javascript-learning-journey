@@ -79,7 +79,8 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 - ✅ Day 22 – Objects(Nested Objects)
 - ✅ Day 23 – Object Methods
 - ✅ Day 24 – Object Destructuring, Spread and fRest Properties
-- ✅ Day 25 –  
+- ✅ Module-6 Mini Project
+- ✅ Module- 6 Assessment
 
 
 # 📁 Repository Structure
