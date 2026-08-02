@@ -14,11 +14,11 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 | ✅ Module 3 – Loops & Pattern Printing | Completed |
 | ✅ Module 4 – Functions | Completed |
 | ✅ Module 5 – Arrays | Completed |
-| ✅ Module 6 – Objects | In Progress |
+| ✅ Module 6 – Objects | Completed |
 
 **📅 Current Day:** 24
 
-**📚 Modules Completed:** 5
+**📚 Modules Completed:** 6
 
 ---
 
@@ -117,7 +117,7 @@ javascript-learning-journey/
 - ✅ Learn Loops & Pattern Printing
 - ✅ Learn Functions
 - ✅ Learn Arrays
-- ⬜ Learn Objects
+- ✅ Learn Objects
 - ⬜ Learn ES6+
 - ⬜ Learn DOM Manipulation
 - ⬜ Learn React.js
@@ -138,6 +138,9 @@ javascript-learning-journey/
 - 🎉 Completed Module 5
 - 📚 Built **Personal Library Manager** using JavaScript Arrays.
 - 🥇 Scored **90/100** in Module 5 Assessment
+- 🎉 Completed Module 6
+- 📚 Built **Student Management System** using JavaScript Objects.
+- 🥇 Scored **95/100** in Module 6 Assessment
 - 📈 Maintaining a daily JavaScript learning repository on GitHub
 ---
 
