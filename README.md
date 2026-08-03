@@ -15,8 +15,10 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 | ✅ Module 4 – Functions | Completed |
 | ✅ Module 5 – Arrays | Completed |
 | ✅ Module 6 – Objects | Completed |
+| ✅ Module 7 – Strings | On Progress  |
 
-**📅 Current Day:** 24
+
+**📅 Current Day:** 25
 
 **📚 Modules Completed:** 6
 
@@ -73,7 +75,7 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 
 ---
 
-## ✅ Module 5 – Objects
+## ✅ Module 6 – Objects
 
 - ✅ Day 21 – Objects(Basics)
 - ✅ Day 22 – Objects(Nested Objects)
@@ -81,6 +83,11 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 - ✅ Day 24 – Object Destructuring, Spread and fRest Properties
 - ✅ Module-6 Mini Project
 - ✅ Module- 6 Assessment
+
+
+## ✅ Module 7 – Strings
+
+- ✅ Day 25 - Introduction to Strings
 
 
 # 📁 Repository Structure
@@ -94,6 +101,7 @@ javascript-learning-journey/
 ├── 📂 04-Functions
 ├── 📂 05-Arrays
 ├── 📂 06-Objects
+├── 📂 07-Strings
 ├── 📄 README.md
 └── 📄 .gitignore
 ```
@@ -118,6 +126,7 @@ javascript-learning-journey/
 - ✅ Learn Functions
 - ✅ Learn Arrays
 - ✅ Learn Objects
+- ⬜ Learn Strings
 - ⬜ Learn ES6+
 - ⬜ Learn DOM Manipulation
 - ⬜ Learn React.js
