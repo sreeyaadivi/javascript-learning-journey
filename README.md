@@ -18,7 +18,7 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 | ✅ Module 7 – Strings | On Progress  |
 
 
-**📅 Current Day:** 25
+**📅 Current Day:** 26
 
 **📚 Modules Completed:** 6
 
@@ -88,6 +88,7 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 ## ✅ Module 7 – Strings
 
 - ✅ Day 25 - Introduction to Strings
+- ✅ Day 26 - Strings Methods
 
 
 # 📁 Repository Structure
