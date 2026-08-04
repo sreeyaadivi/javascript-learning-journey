@@ -89,6 +89,7 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 - ✅ Day 25 - Introduction to Strings
 - ✅ Day 26 - Strings Methods
 - ✅ Day 27 - More Strings Methods
+- ✅ Mini Project Completed
 
 
 # 📁 Repository Structure
