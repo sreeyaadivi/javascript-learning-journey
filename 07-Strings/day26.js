@@ -42,4 +42,3 @@ Website : ${website}
 First 3 Characters : ${website.slice(0,3)};
 Contains "google" : ${website.includes("google")};
 Contains "facebook" : ${website.includes("facebook")}`);
-

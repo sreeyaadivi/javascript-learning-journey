@@ -15,11 +15,11 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 | ✅ Module 4 – Functions | Completed |
 | ✅ Module 5 – Arrays | Completed |
 | ✅ Module 6 – Objects | Completed |
-| ✅ Module 7 – Strings | On Progress  |
+| ✅ Module 7 – Strings | Completed  |
 
 
 **📅 Current Day:** 27
-**📚 Modules Completed:** 6
+**📚 Modules Completed:** 7
 
 ---
 
@@ -89,8 +89,8 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 - ✅ Day 25 - Introduction to Strings
 - ✅ Day 26 - Strings Methods
 - ✅ Day 27 - More Strings Methods
-- ✅ Mini Project Completed
-
+- ✅ Module -7 Mini Project
+- ✅ Module -7 Assessment 
 
 # 📁 Repository Structure
 
@@ -128,7 +128,7 @@ javascript-learning-journey/
 - ✅ Learn Functions
 - ✅ Learn Arrays
 - ✅ Learn Objects
-- ⬜ Learn Strings
+- ✅ Learn Strings
 - ⬜ Learn ES6+
 - ⬜ Learn DOM Manipulation
 - ⬜ Learn React.js
@@ -152,6 +152,10 @@ javascript-learning-journey/
 - 🎉 Completed Module 6
 - 📚 Built **Student Management System** using JavaScript Objects.
 - 🥇 Scored **95/100** in Module 6 Assessment
+- 🎉 Completed Module 7
+- 📚 Built **String Utility Toolkit** using JavaScript Strings.
+- 🥇 Scored **95/100** in Module 6 Assessment
+
 - 📈 Maintaining a daily JavaScript learning repository on GitHub
 ---
 
