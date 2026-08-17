@@ -95,8 +95,8 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 
 ## ✅ Module 8 - ES6+
 - ⬜ Day 28 - Arrow Functions
-- ⬜
-- ⬜
+- ⬜ Day 29 - Default Parameter & Template Literals
+- ⬜ 
 - ⬜
 - ⬜
 - ⬜
@@ -117,6 +117,7 @@ javascript-learning-journey/
 ├── 📂 05-Arrays
 ├── 📂 06-Objects
 ├── 📂 07-Strings
+├── 📂 08-ES6+
 ├── 📄 README.md
 └── 📄 .gitignore
 ```
