@@ -16,10 +16,11 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 | ✅ Module 5 – Arrays | Completed |
 | ✅ Module 6 – Objects | Completed |
 | ✅ Module 7 – Strings | Completed  |
+| ⬜ Module 8 - ES6+ | On Progress |
 
 
-**📅 Current Day:** 27
-**📚 Modules Completed:** 7
+**📅 Current Day:** 28
+**📚 Modules Completed:** 8
 
 ---
 
@@ -91,6 +92,18 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 - ✅ Day 27 - More Strings Methods
 - ✅ Module -7 Mini Project
 - ✅ Module -7 Assessment 
+
+## ✅ Module 8 - ES6+
+- ⬜ Day 28 - Arrow Functions
+- ⬜
+- ⬜
+- ⬜
+- ⬜
+- ⬜
+- ⬜
+- ⬜
+
+
 
 # 📁 Repository Structure
 
