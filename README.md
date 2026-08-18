@@ -19,8 +19,8 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 | ⬜ Module 8 - ES6+ | On Progress |
 
 
-**📅 Current Day:** 30
-**📚 Modules Completed:** 8
+**📅 Current Day:** 31
+**📚 Modules Completed:** 7
 
 ---
 
@@ -97,8 +97,8 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 - ✅ Day 28 - Arrow Functions
 - ✅ Day 29 - Default Parameter & Template Literals
 - ✅ Day 30 - Rest and spread operators
-- ⬜
-- ⬜
+- ⬜ Day 31 - Array Destructuring
+- ⬜ 
 - ⬜
 - ⬜
 - ⬜
