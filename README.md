@@ -19,7 +19,7 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 | ⬜ Module 8 - ES6+ | On Progress |
 
 
-**📅 Current Day:** 32
+**📅 Current Day:** 33
 **📚 Modules Completed:** 7
 
 ---
@@ -100,7 +100,7 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 - ⬜ Day 31 - Array Destructuring
 - ⬜ Day 32 - Object Destructuring
 - ⬜ Day 33 - Modules- export and import
-- ⬜
+- ⬜ 
 - ⬜
 
 
