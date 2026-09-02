@@ -2,7 +2,7 @@
 -----------------------------------------
 JavaScript Bootcamp
 Module 8: ES6+
-Day 33: Import and Export
+Day 34: Import and Export
 -----------------------------------------
 */
 // Practice 1 — Nested Object
