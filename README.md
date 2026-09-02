@@ -19,7 +19,7 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 | ⬜ Module 8 - ES6+ | On Progress |
 
 
-**📅 Current Day:** 35
+**📅 Current Day:** 36
 **📚 Modules Completed:** 7
 
 ---
@@ -93,6 +93,7 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 - ✅ Module -7 Mini Project
 - ✅ Module -7 Assessment 
 
+
 ## ✅ Module 8 - ES6+
 - ✅ Day 28 - Arrow Functions
 - ✅ Day 29 - Default Parameter & Template Literals
@@ -101,8 +102,8 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 - ✅ Day 32 - Object Destructuring
 - ✅ Day 33 - Modules- export and import
 - ✅ Day 34 - Optional Chaining
-- ⬜ Day 35 - Objects Enhancements
-- ⬜ Day
+- ✅ Day 35 - Objects Enhancements
+- ✅ Day 36 - ES6+ Integration Review
 - ⬜ Day
 - ⬜ Day
 - ⬜ Day
