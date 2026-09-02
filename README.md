@@ -19,7 +19,7 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 | ⬜ Module 8 - ES6+ | On Progress |
 
 
-**📅 Current Day:** 36
+**📅 Current Day:** 37
 **📚 Modules Completed:** 7
 
 ---
@@ -104,7 +104,7 @@ This repository documents my daily progress as I learn **JavaScript from Beginne
 - ✅ Day 34 - Optional Chaining
 - ✅ Day 35 - Objects Enhancements
 - ✅ Day 36 - ES6+ Integration Review
-- ⬜ Day
+- ✅ Day 37 - ES6+ Practical Patterns
 - ⬜ Day
 - ⬜ Day
 - ⬜ Day
